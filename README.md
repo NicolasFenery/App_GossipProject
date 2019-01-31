@@ -9,4 +9,4 @@ Application de gossips
 - PrivateMessage
 
 ## Réalisé par : :fire:
-Nicolas Fenery & Manon Fenery
+Nicolas & Manon & Théo
